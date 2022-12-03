@@ -1,3 +1,4 @@
 *.log
 stus/dir/
-dir/
+dir/txt/
+.txt
